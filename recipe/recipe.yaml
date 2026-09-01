@@ -61,7 +61,7 @@ tests:
 
 about:
   license: MIT
-  license_file: LICENSE.rst
+  license_file: LICENSE
   summary: dtool CLI commands for getting information about datasets
   homepage: https://github.com/jic-dtool/dtool-info
   repository: https://github.com/jic-dtool/dtool-info
