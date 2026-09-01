@@ -25,7 +25,7 @@ requirements:
   run:
     - python >=${{ python_min }}
     - click
-    - setuptools
+    - setuptools <80
     - dtoolcore
     - dtool_cli
     - jinja2
